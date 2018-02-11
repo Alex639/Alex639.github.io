@@ -1,3 +1,13 @@
+body{
+	background-image: url(../images/metallic-texture-abstract-hd-wallpaper-2560x1600-3404.jpg);
+	
+	
+	
+}
+
+
+
+
 #text{
 	text-align:center;
 	color:#fff;
@@ -10,5 +20,27 @@
 }
 #information{
 	color:#800000;
+	
+}
+#image{
+	margin:auto;
+	
+}
+button{
+	border-radius:90px;
+     height:75px;
+	 width:125px;
+	background-color: #7d0303bf;
+	border-style: solid;
+	outline:none;
+	border-color:#7d0303bf;
+	font-size:20px;
+}
+button:hover{
+	background-color: #851525bf;
+}
+button:active{
+	background-color: #992515bf;
+	
 	
 }
